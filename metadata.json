@@ -1,0 +1,8 @@
+{
+  "name": "React Real-time Chat App",
+  "description": "A real-time chat and video/voice calling application built with React, TypeScript, Firebase, and WebRTC, featuring a modern user interface styled with Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
