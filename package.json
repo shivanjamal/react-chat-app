@@ -17,5 +17,11 @@
     "@vitejs/plugin-react": "^5.0.4",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
-  }
+  },
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+}  
 }
